@@ -1,0 +1,20 @@
+git init-to initialise git repo
+
+
+Git status->list all untracked files
+
+
+Git add -A-> adding all changes to staging area
+
+
+Git commit -m "your msg"-> adding changes to local repository
+
+
+Push
+
+
+Pull
+
+Clone
+
+ 
